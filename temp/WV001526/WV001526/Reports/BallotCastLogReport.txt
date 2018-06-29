@@ -1,0 +1,792 @@
+* * * * * * * * * * * *
+    Ballot Cast Log
+      Report
+* * * * * * * * * * * *
+
+
+Unit Info
+= = = = = = = = = = 
+Advanced Voting
+Solutions
+Unit#: WV001526
+SW version: 1.5.4
+
+
+Election Info
+= = = = = = = = = = 
+COMMONWEALTH OF
+VIRGINIA, OFFICIAL
+BALLOT
+COUNTY OF FAIRFAX
+GENERAL AND SPECIAL
+ELECTIONS
+TUESDAY, NOVEMBER 6,
+2012
+
+
+Location Info
+= = = = = = = = = = 
+520 SKYLINE
+
+
+Precinct IDs
+= = = = = = = = = = 
+520.1; 520.2; 520.3
+
+
+Start Date and Time
+= = = = = = = = = = 
+Date: Nov 6, 2012
+Time: 5:25:04 AM
+
+
+6:9:43 11/6/2012
+  Cast ballot
+6:11:54 11/6/2012
+  Cast ballot
+6:13:34 11/6/2012
+  Cast ballot
+6:15:14 11/6/2012
+  Cast ballot
+6:22:13 11/6/2012
+  Cast ballot
+6:24:7 11/6/2012
+  Cast ballot
+6:25:36 11/6/2012
+  Cast ballot
+6:27:12 11/6/2012
+  Cast ballot
+6:29:21 11/6/2012
+  Cast ballot
+6:31:7 11/6/2012
+  Cast ballot
+6:32:29 11/6/2012
+  Cast ballot
+6:36:11 11/6/2012
+  Cast ballot
+6:45:30 11/6/2012
+  Cast ballot
+6:50:5 11/6/2012
+  Cast ballot
+6:52:11 11/6/2012
+  Cast ballot
+6:55:38 11/6/2012
+  Cast ballot
+6:57:42 11/6/2012
+  Cast ballot
+6:59:23 11/6/2012
+  Cast ballot
+7:2:54 11/6/2012
+  Cast ballot
+7:4:56 11/6/2012
+  Cast ballot
+7:7:36 11/6/2012
+  Cast ballot
+7:8:40 11/6/2012
+  Cast ballot
+7:12:5 11/6/2012
+  Cast ballot
+7:14:49 11/6/2012
+  Cast ballot
+7:18:6 11/6/2012
+  Cast ballot
+7:20:47 11/6/2012
+  Cast ballot
+7:22:43 11/6/2012
+  Cast ballot
+7:25:40 11/6/2012
+  Cast ballot
+7:28:32 11/6/2012
+  Cast ballot
+7:30:34 11/6/2012
+  Cast ballot
+7:33:4 11/6/2012
+  Cast ballot
+7:34:43 11/6/2012
+  Cast ballot
+7:36:31 11/6/2012
+  Cast ballot
+7:37:55 11/6/2012
+  Cast ballot
+7:39:25 11/6/2012
+  Cast ballot
+7:41:7 11/6/2012
+  Cast ballot
+7:43:3 11/6/2012
+  Cast ballot
+7:44:53 11/6/2012
+  Cast ballot
+7:47:36 11/6/2012
+  Cast ballot
+7:49:3 11/6/2012
+  Cast ballot
+7:51:57 11/6/2012
+  Cast ballot
+7:54:39 11/6/2012
+  Cast ballot
+7:56:16 11/6/2012
+  Cast ballot
+7:58:43 11/6/2012
+  Cast ballot
+8:0:24 11/6/2012
+  Cast ballot
+8:3:4 11/6/2012
+  Cast ballot
+8:5:8 11/6/2012
+  Cast ballot
+8:6:39 11/6/2012
+  Cast ballot
+8:8:46 11/6/2012
+  Cast ballot
+8:13:41 11/6/2012
+  Cast ballot
+8:15:22 11/6/2012
+  Cast ballot
+8:19:37 11/6/2012
+  Cast ballot
+8:22:19 11/6/2012
+  Cast ballot
+8:24:4 11/6/2012
+  Cast ballot
+8:26:18 11/6/2012
+  Cast ballot
+8:28:25 11/6/2012
+  Cast ballot
+8:30:26 11/6/2012
+  Cast ballot
+8:33:8 11/6/2012
+  Cast ballot
+8:36:38 11/6/2012
+  Cast ballot
+8:38:6 11/6/2012
+  Cast ballot
+8:40:18 11/6/2012
+  Cast ballot
+8:42:16 11/6/2012
+  Cast ballot
+8:46:42 11/6/2012
+  Cast ballot
+8:49:12 11/6/2012
+  Cast ballot
+8:50:39 11/6/2012
+  Cast ballot
+8:53:31 11/6/2012
+  Cast ballot
+8:56:13 11/6/2012
+  Cast ballot
+8:57:46 11/6/2012
+  Cast ballot
+8:59:46 11/6/2012
+  Cast ballot
+9:1:58 11/6/2012
+  Cast ballot
+9:3:18 11/6/2012
+  Cast ballot
+9:4:43 11/6/2012
+  Cast ballot
+9:6:59 11/6/2012
+  Cast ballot
+9:9:16 11/6/2012
+  Cast ballot
+9:13:29 11/6/2012
+  Cast ballot
+9:15:38 11/6/2012
+  Cast ballot
+9:17:3 11/6/2012
+  Cast ballot
+9:20:38 11/6/2012
+  Cast ballot
+9:23:32 11/6/2012
+  Cast ballot
+9:25:19 11/6/2012
+  Cast ballot
+9:27:13 11/6/2012
+  Cast ballot
+9:29:11 11/6/2012
+  Cast ballot
+9:31:9 11/6/2012
+  Cast ballot
+9:33:26 11/6/2012
+  Cast ballot
+9:34:33 11/6/2012
+  Cast ballot
+9:38:52 11/6/2012
+  Cast ballot
+9:42:50 11/6/2012
+  Cast ballot
+9:44:11 11/6/2012
+  Cast ballot
+9:46:46 11/6/2012
+  Cast ballot
+9:50:56 11/6/2012
+  Cast ballot
+9:52:14 11/6/2012
+  Cast ballot
+9:54:20 11/6/2012
+  Cast ballot
+9:55:48 11/6/2012
+  Cast ballot
+9:57:4 11/6/2012
+  Cast ballot
+9:59:47 11/6/2012
+  Cast ballot
+10:1:52 11/6/2012
+  Cast ballot
+10:4:48 11/6/2012
+  Cast ballot
+10:6:53 11/6/2012
+  Cast ballot
+10:7:42 11/6/2012
+  Cast ballot
+10:8:36 11/6/2012
+  Cast ballot
+10:9:56 11/6/2012
+  Cast ballot
+10:11:33 11/6/2012
+  Cast ballot
+10:12:39 11/6/2012
+  Cast ballot
+10:13:50 11/6/2012
+  Cast ballot
+10:19:5 11/6/2012
+  Cast ballot
+10:21:1 11/6/2012
+  Cast ballot
+10:23:40 11/6/2012
+  Cast ballot
+10:25:27 11/6/2012
+  Cast ballot
+10:27:21 11/6/2012
+  Cast ballot
+10:29:34 11/6/2012
+  Cast ballot
+10:32:46 11/6/2012
+  Cast ballot
+10:36:37 11/6/2012
+  Cast ballot
+10:38:25 11/6/2012
+  Cast ballot
+10:42:49 11/6/2012
+  Cast ballot
+10:46:21 11/6/2012
+  Cast ballot
+10:48:39 11/6/2012
+  Cast ballot
+10:50:24 11/6/2012
+  Cast ballot
+10:53:20 11/6/2012
+  Cast ballot
+10:55:34 11/6/2012
+  Cast ballot
+10:56:41 11/6/2012
+  Cast ballot
+10:57:54 11/6/2012
+  Cast ballot
+10:59:21 11/6/2012
+  Cast ballot
+11:1:29 11/6/2012
+  Cast ballot
+11:2:39 11/6/2012
+  Cast ballot
+11:3:58 11/6/2012
+  Cast ballot
+11:5:50 11/6/2012
+  Cast ballot
+11:8:6 11/6/2012
+  Cast ballot
+11:9:41 11/6/2012
+  Cast ballot
+11:12:58 11/6/2012
+  Cast ballot
+11:16:33 11/6/2012
+  Cast ballot
+11:20:40 11/6/2012
+  Cast ballot
+11:22:37 11/6/2012
+  Cast ballot
+11:24:43 11/6/2012
+  Cast ballot
+11:25:57 11/6/2012
+  Cast ballot
+11:28:19 11/6/2012
+  Cast ballot
+11:29:56 11/6/2012
+  Cast ballot
+11:32:0 11/6/2012
+  Cast ballot
+11:33:40 11/6/2012
+  Cast ballot
+11:35:18 11/6/2012
+  Cast ballot
+11:57:35 11/6/2012
+  Cast ballot
+11:59:1 11/6/2012
+  Cast ballot
+12:0:37 11/6/2012
+  Cast ballot
+12:3:14 11/6/2012
+  Cast ballot
+12:5:47 11/6/2012
+  Cast ballot
+12:7:14 11/6/2012
+  Cast ballot
+12:11:50 11/6/2012
+  Cast ballot
+12:16:26 11/6/2012
+  Cast ballot
+12:20:0 11/6/2012
+  Cast ballot
+12:21:52 11/6/2012
+  Cast ballot
+12:23:52 11/6/2012
+  Cast ballot
+12:26:27 11/6/2012
+  Cast ballot
+12:28:11 11/6/2012
+  Cast ballot
+12:29:25 11/6/2012
+  Cast ballot
+12:31:49 11/6/2012
+  Cast ballot
+12:34:53 11/6/2012
+  Cast ballot
+12:38:35 11/6/2012
+  Cast ballot
+12:40:35 11/6/2012
+  Cast ballot
+12:42:15 11/6/2012
+  Cast ballot
+12:44:27 11/6/2012
+  Cast ballot
+12:47:43 11/6/2012
+  Cast ballot
+12:50:19 11/6/2012
+  Cast ballot
+12:53:44 11/6/2012
+  Cast ballot
+12:55:33 11/6/2012
+  Cast ballot
+12:58:41 11/6/2012
+  Cast ballot
+13:3:12 11/6/2012
+  Cast ballot
+13:6:35 11/6/2012
+  Cast ballot
+13:7:47 11/6/2012
+  Cast ballot
+13:11:10 11/6/2012
+  Cast ballot
+13:13:2 11/6/2012
+  Cast ballot
+13:14:51 11/6/2012
+  Cast ballot
+13:18:20 11/6/2012
+  Cast ballot
+13:25:2 11/6/2012
+  Cast ballot
+13:29:11 11/6/2012
+  Cast ballot
+13:33:40 11/6/2012
+  Cast ballot
+13:36:16 11/6/2012
+  Cast ballot
+13:38:3 11/6/2012
+  Cast ballot
+13:40:41 11/6/2012
+  Cast ballot
+13:42:48 11/6/2012
+  Cast ballot
+13:46:26 11/6/2012
+  Cast ballot
+13:48:28 11/6/2012
+  Cast ballot
+13:51:7 11/6/2012
+  Cast ballot
+13:52:4 11/6/2012
+  Cast ballot
+13:52:49 11/6/2012
+  Cast ballot
+13:55:5 11/6/2012
+  Cast ballot
+13:56:42 11/6/2012
+  Cast ballot
+13:59:14 11/6/2012
+  Cast ballot
+14:1:35 11/6/2012
+  Cast ballot
+14:3:16 11/6/2012
+  Cast ballot
+14:10:39 11/6/2012
+  Cast ballot
+14:15:2 11/6/2012
+  Cast ballot
+14:16:44 11/6/2012
+  Cast ballot
+14:19:1 11/6/2012
+  Cast ballot
+14:21:10 11/6/2012
+  Cast ballot
+14:22:16 11/6/2012
+  Cast ballot
+14:23:39 11/6/2012
+  Cast ballot
+14:26:8 11/6/2012
+  Cast ballot
+14:27:41 11/6/2012
+  Cast ballot
+14:29:55 11/6/2012
+  Cast ballot
+14:33:10 11/6/2012
+  Cast ballot
+14:35:4 11/6/2012
+  Cast ballot
+14:37:57 11/6/2012
+  Cast ballot
+14:41:27 11/6/2012
+  Cast ballot
+14:43:57 11/6/2012
+  Cast ballot
+14:45:10 11/6/2012
+  Cast ballot
+14:46:43 11/6/2012
+  Cast ballot
+14:47:54 11/6/2012
+  Cast ballot
+14:50:30 11/6/2012
+  Cast ballot
+14:53:44 11/6/2012
+  Cast ballot
+14:55:26 11/6/2012
+  Cast ballot
+14:59:8 11/6/2012
+  Cast ballot
+15:2:11 11/6/2012
+  Cast ballot
+15:6:12 11/6/2012
+  Cast ballot
+15:11:14 11/6/2012
+  Cast ballot
+15:13:46 11/6/2012
+  Cast ballot
+15:16:28 11/6/2012
+  Cast ballot
+15:18:20 11/6/2012
+  Cast ballot
+15:20:21 11/6/2012
+  Cast ballot
+15:22:17 11/6/2012
+  Cast ballot
+15:24:24 11/6/2012
+  Cast ballot
+15:26:16 11/6/2012
+  Cast ballot
+15:28:3 11/6/2012
+  Cast ballot
+15:28:59 11/6/2012
+  Cast ballot
+15:32:18 11/6/2012
+  Cast ballot
+15:33:19 11/6/2012
+  Cast ballot
+15:35:11 11/6/2012
+  Cast ballot
+15:37:35 11/6/2012
+  Cast ballot
+15:39:0 11/6/2012
+  Cast ballot
+15:42:33 11/6/2012
+  Cast ballot
+15:46:16 11/6/2012
+  Cast ballot
+15:48:4 11/6/2012
+  Cast ballot
+15:51:12 11/6/2012
+  Cast ballot
+15:54:52 11/6/2012
+  Cast ballot
+15:56:59 11/6/2012
+  Cast ballot
+16:0:16 11/6/2012
+  Cast ballot
+16:2:29 11/6/2012
+  Cast ballot
+16:8:35 11/6/2012
+  Cast ballot
+16:12:36 11/6/2012
+  Cast ballot
+16:13:40 11/6/2012
+  Cast ballot
+16:15:44 11/6/2012
+  Cast ballot
+16:18:51 11/6/2012
+  Cast ballot
+16:23:47 11/6/2012
+  Cast ballot
+16:26:46 11/6/2012
+  Cast ballot
+16:28:58 11/6/2012
+  Cast ballot
+16:30:33 11/6/2012
+  Cast ballot
+16:32:3 11/6/2012
+  Cast ballot
+16:34:41 11/6/2012
+  Cast ballot
+16:35:46 11/6/2012
+  Cast ballot
+16:40:38 11/6/2012
+  Cast ballot
+16:42:55 11/6/2012
+  Cast ballot
+16:45:25 11/6/2012
+  Cast ballot
+16:50:6 11/6/2012
+  Cast ballot
+16:51:35 11/6/2012
+  Cast ballot
+16:56:2 11/6/2012
+  Cast ballot
+16:57:40 11/6/2012
+  Cast ballot
+16:59:23 11/6/2012
+  Cast ballot
+17:1:28 11/6/2012
+  Cast ballot
+17:4:26 11/6/2012
+  Cast ballot
+17:7:23 11/6/2012
+  Cast ballot
+17:11:25 11/6/2012
+  Cast ballot
+17:13:58 11/6/2012
+  Cast ballot
+17:16:5 11/6/2012
+  Cast ballot
+17:17:10 11/6/2012
+  Cast ballot
+17:22:6 11/6/2012
+  Cast ballot
+17:23:15 11/6/2012
+  Cast ballot
+17:27:11 11/6/2012
+  Cast ballot
+17:30:14 11/6/2012
+  Cast ballot
+17:32:3 11/6/2012
+  Cast ballot
+17:33:27 11/6/2012
+  Cast ballot
+17:36:51 11/6/2012
+  Cast ballot
+17:40:28 11/6/2012
+  Cast ballot
+17:42:28 11/6/2012
+  Cast ballot
+17:45:25 11/6/2012
+  Cast ballot
+17:47:48 11/6/2012
+  Cast ballot
+17:49:43 11/6/2012
+  Cast ballot
+17:51:16 11/6/2012
+  Cast ballot
+17:53:55 11/6/2012
+  Cast ballot
+17:57:5 11/6/2012
+  Cast ballot
+18:5:59 11/6/2012
+  Cast ballot
+18:8:47 11/6/2012
+  Cast ballot
+18:10:45 11/6/2012
+  Cast ballot
+18:11:53 11/6/2012
+  Cast ballot
+18:14:16 11/6/2012
+  Cast ballot
+18:15:53 11/6/2012
+  Cast ballot
+18:17:23 11/6/2012
+  Cast ballot
+18:18:57 11/6/2012
+  Cast ballot
+18:19:59 11/6/2012
+  Cast ballot
+18:22:47 11/6/2012
+  Cast ballot
+18:24:33 11/6/2012
+  Cast ballot
+18:26:37 11/6/2012
+  Cast ballot
+18:28:32 11/6/2012
+  Cast ballot
+18:32:48 11/6/2012
+  Cast ballot
+18:34:49 11/6/2012
+  Cast ballot
+18:39:37 11/6/2012
+  Cast ballot
+18:42:2 11/6/2012
+  Cast ballot
+18:43:22 11/6/2012
+  Cast ballot
+18:44:41 11/6/2012
+  Cast ballot
+18:46:10 11/6/2012
+  Cast ballot
+18:47:37 11/6/2012
+  Cast ballot
+18:50:0 11/6/2012
+  Cast ballot
+18:52:6 11/6/2012
+  Cast ballot
+18:54:21 11/6/2012
+  Cast ballot
+18:56:31 11/6/2012
+  Cast ballot
+18:59:23 11/6/2012
+  Cast ballot
+19:2:3 11/6/2012
+  Cast ballot
+19:4:2 11/6/2012
+  Cast ballot
+19:6:11 11/6/2012
+  Cast ballot
+19:9:55 11/6/2012
+  Cast ballot
+19:12:24 11/6/2012
+  Cast ballot
+19:14:41 11/6/2012
+  Cast ballot
+19:17:45 11/6/2012
+  Cast ballot
+19:19:8 11/6/2012
+  Cast ballot
+19:22:49 11/6/2012
+  Cast ballot
+19:24:15 11/6/2012
+  Cast ballot
+19:27:1 11/6/2012
+  Cast ballot
+19:30:51 11/6/2012
+  Cast ballot
+19:33:4 11/6/2012
+  Cast ballot
+19:35:44 11/6/2012
+  Cast ballot
+19:42:59 11/6/2012
+  Cast ballot
+19:44:5 11/6/2012
+  Cast ballot
+19:47:6 11/6/2012
+  Cast ballot
+19:49:57 11/6/2012
+  Cast ballot
+19:52:15 11/6/2012
+  Cast ballot
+19:53:20 11/6/2012
+  Cast ballot
+19:56:26 11/6/2012
+  Cast ballot
+19:57:49 11/6/2012
+  Cast ballot
+19:59:36 11/6/2012
+  Cast ballot
+20:2:14 11/6/2012
+  Cast ballot
+20:5:40 11/6/2012
+  Cast ballot
+20:7:37 11/6/2012
+  Cast ballot
+20:9:37 11/6/2012
+  Cast ballot
+20:12:34 11/6/2012
+  Cast ballot
+20:14:31 11/6/2012
+  Cast ballot
+20:18:26 11/6/2012
+  Cast ballot
+20:20:26 11/6/2012
+  Cast ballot
+20:21:46 11/6/2012
+  Cast ballot
+20:23:8 11/6/2012
+  Cast ballot
+20:26:8 11/6/2012
+  Cast ballot
+20:35:1 11/6/2012
+  Cast ballot
+20:37:41 11/6/2012
+  Cast ballot
+20:42:59 11/6/2012
+  Cast ballot
+20:45:29 11/6/2012
+  Cast ballot
+20:51:25 11/6/2012
+  Cast ballot
+20:53:1 11/6/2012
+  Cast ballot
+20:56:26 11/6/2012
+  Cast ballot
+20:59:32 11/6/2012
+  Cast ballot
+21:5:3 11/6/2012
+  Cast ballot
+21:7:32 11/6/2012
+  Cast ballot
+21:10:16 11/6/2012
+  Cast ballot
+21:14:30 11/6/2012
+  Cast ballot
+21:17:18 11/6/2012
+  Cast ballot
+21:20:41 11/6/2012
+  Cast ballot
+21:22:47 11/6/2012
+  Cast ballot
+21:27:38 11/6/2012
+  Cast ballot
+21:30:50 11/6/2012
+  Cast ballot
+21:34:12 11/6/2012
+  Cast ballot
+
+
+Certified by:
+
+
+- - - - - - - - - - 
+
+
+- - - - - - - - - - 
+
+
+- - - - - - - - - - 
+
+
+- - - - - - - - - - 
+
+
+- - - - - - - - - - 
+
+
+- - - - - - - - - - 
+
+
+End Date and Time
+= = = = = = = = = = 
+Date: Nov 6, 2012
+Time: 9:54:59 PM
+
+
+* * * * * * * * * * * *
+     End of Report     
+* * * * * * * * * * * *
+
+
+
+
+
+
+
+

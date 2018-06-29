@@ -1,0 +1,101 @@
+* * * * * * * * * * * *
+    Ballot Cast Log
+      Report
+* * * * * * * * * * * *
+
+
+Unit Info
+= = = = = = = = = = 
+Advanced Voting
+Solutions
+Unit#: WV001171
+SW version: 1.5.4
+
+
+Election Info
+= = = = = = = = = = 
+COMMONWEALTH OF
+VIRGINIA, OFFICIAL
+BALLOT
+COUNTY OF FAIRFAX
+DEMOCRATIC PARTY
+PRIMARY ELECTION
+TUESDAY, JUNE 10, 2014
+
+
+Location Info
+= = = = = = = = = = 
+520 SKYLINE
+
+
+Precinct IDs
+= = = = = = = = = = 
+520
+
+
+Start Date and Time
+= = = = = = = = = = 
+Date: May 15, 2014
+Time: 2:06:12 PM
+
+
+14:24:17 5/15/2014
+  Cast ballot
+14:24:34 5/15/2014
+  Cast ballot
+14:24:51 5/15/2014
+  Cast ballot
+14:25:6 5/15/2014
+  Cast ballot
+14:25:22 5/15/2014
+  Cast ballot
+14:25:39 5/15/2014
+  Cast ballot
+14:25:56 5/15/2014
+  Cast ballot
+14:26:10 5/15/2014
+  Cast ballot
+14:26:23 5/15/2014
+  Cast ballot
+14:26:36 5/15/2014
+  Cast ballot
+
+
+Certified by:
+
+
+- - - - - - - - - - 
+
+
+- - - - - - - - - - 
+
+
+- - - - - - - - - - 
+
+
+- - - - - - - - - - 
+
+
+- - - - - - - - - - 
+
+
+- - - - - - - - - - 
+
+
+End Date and Time
+= = = = = = = = = = 
+Date: May 15, 2014
+Time: 2:27:16 PM
+
+
+* * * * * * * * * * * *
+     End of Report     
+* * * * * * * * * * * *
+
+
+
+
+
+
+
+

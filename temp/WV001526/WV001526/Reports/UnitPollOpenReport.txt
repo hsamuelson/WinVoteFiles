@@ -1,0 +1,308 @@
+* * * * * * * * * * * *
+   Unit Open Report
+* * * * * * * * * * * *
+
+
+Unit Info
+= = = = = = = = = = 
+Advanced Voting
+Solutions
+Unit#: WV001526
+SW version: 1.5.4
+
+
+Election Info
+= = = = = = = = = = 
+COMMONWEALTH OF
+VIRGINIA, OFFICIAL
+BALLOT
+COUNTY OF FAIRFAX
+GENERAL AND SPECIAL
+ELECTIONS
+TUESDAY, NOVEMBER 6,
+2012
+
+
+Location Info
+= = = = = = = = = = 
+520 SKYLINE
+
+
+Precinct IDs
+= = = = = = = = = = 
+520.1; 520.2; 520.3
+
+
+Start Date and Time
+= = = = = = = = = = 
+Date: Nov 6, 2012
+Time: 5:25:05 AM
+
+
+Counters Info
+= = = = = = = = = = 
+All Counters=0
+Public Counters = 0
+Protective = 3463
+
+
+
+
+Votes Details
+= = = = = = = = = = 
+
+
+
+PRESIDENT
+AND
+VICE
+PRESIDENT
+- - - - - - - - -
+Ballots Cast:  0
+                  Count
+                  - - -
+M Romney/P Ry(- R)    0
+B Obama/J Bid(- D)    0
+V Goode/J Cly(- C)    0
+G Johnson/J G(- L)    0
+J Stein/C Hon(- G)    0
+WriteIn               0
+UnderVotes            0
+OverVotes             0
+
+
+
+
+MEMBER
+UNITED
+STATES SENATE
+
+- - - - - - - - -
+Ballots Cast:  0
+                  Count
+                  - - -
+G Allen(- R)          0
+T Kaine(- D)          0
+WriteIn               0
+UnderVotes            0
+OverVotes             0
+
+
+
+MEMBER
+HOUSE OF
+REPRESENTATIVES
+8TH
+DISTRICT
+- - - - - - - - -
+Ballots Cast:  0
+                  Count
+                  - - -
+J Murray(- R)         0
+J Moran, Jr.(- D)     0
+J Murphy(-IG)         0
+J Howell(- I)         0
+WriteIn               0
+UnderVotes            0
+OverVotes             0
+
+
+PROPOSED
+
+CONSTITUTIONAL
+AMENDMENTS
+QUESTION 1
+- - - - - - -
+Ballots Cast:  0
+                  Count
+                  - - -
+Yes                   0
+No                    0
+UnderVotes            0
+OverVotes             0
+
+
+
+PROPOSED
+CONSTITUTIONAL
+AMENDMENTS
+QUESTION 2
+- - - - - - -
+Ballots Cast:  0
+                  Count
+                  - - -
+Yes                   0
+No                    0
+UnderVotes            0
+OverVotes             0
+
+
+PARKS AND PARK
+FACILITIES
+BONDS
+- - - - - - -
+Ballots Cast:  0
+                  Count
+                  - - -
+Yes                   0
+No                    0
+UnderVotes            0
+OverVotes             0
+
+
+
+PUBLIC SAFETY BONDS
+- - - - - - -
+Ballots Cast:  0
+                  Count
+                  - - -
+Yes                   0
+No                    0
+UnderVotes            0
+OverVotes             0
+
+
+
+PUBLIC LIBRARY BONDS
+- - - - - - -
+Ballots Cast:  0
+                  Count
+                  - - -
+Yes                   0
+No                    0
+UnderVotes            0
+OverVotes             0
+
+
+STORM
+DRAINAGE
+IMPROVEMENTS
+BONDS
+- - - - - - -
+Ballots Cast:  0
+                  Count
+                  - - -
+Yes                   0
+No                    0
+UnderVotes            0
+OverVotes             0
+
+
+WriteIn Details
+= = = = = = = = = = 
+
+
+
+PRESIDENT
+AND
+VICE
+PRESIDENT
+- - - - - - - - -
+No Write-ins
+
+
+
+
+MEMBER
+UNITED
+STATES SENATE
+
+- - - - - - - - -
+No Write-ins
+
+
+
+MEMBER
+HOUSE OF
+REPRESENTATIVES
+8TH
+DISTRICT
+- - - - - - - - -
+No Write-ins
+
+
+Audit Log Details
+= = = = = = = = = = 
+1: 11/6/2012 5:20:12 AM
+WINvote Unit is turned
+on.
+
+
+2: 11/6/2012 5:20:13 AM
+check memory
+
+
+3: 11/6/2012 5:20:15 AM
+check hard drive
+
+
+4: 11/6/2012 5:20:16 AM
+check Removable Media
+
+
+5: 11/6/2012 5:20:17 AM
+check network
+
+
+6: 11/6/2012 5:20:18 AM
+check smartcard device
+
+
+7: 11/6/2012 5:20:19 AM
+check printer
+
+
+8: 11/6/2012 5:20:20 AM
+ORC Passed
+
+
+9: 11/6/2012 5:25:00 AM
+Reset all counters
+
+
+10: 11/6/2012 5:25:05
+AM
+Generate Poll Open
+Report
+
+
+
+
+Certified by:
+
+
+- - - - - - - - - - 
+
+
+- - - - - - - - - - 
+
+
+- - - - - - - - - - 
+
+
+- - - - - - - - - - 
+
+
+- - - - - - - - - - 
+
+
+- - - - - - - - - - 
+
+
+End Date and Time
+= = = = = = = = = = 
+Date: Nov 6, 2012
+Time: 5:25:07 AM
+
+
+* * * * * * * * * * * *
+     End of Report     
+* * * * * * * * * * * *
+
+
+
+
+
+
+
+

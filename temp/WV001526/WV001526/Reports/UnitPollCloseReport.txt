@@ -1,0 +1,274 @@
+* * * * * * * * * * * *
+  Unit Close Report
+* * * * * * * * * * * *
+
+
+Unit Info
+= = = = = = = = = = 
+Advanced Voting
+Solutions
+Unit#: WV001526
+SW version: 1.5.4
+
+
+Election Info
+= = = = = = = = = = 
+COMMONWEALTH OF
+VIRGINIA, OFFICIAL
+BALLOT
+COUNTY OF FAIRFAX
+GENERAL AND SPECIAL
+ELECTIONS
+TUESDAY, NOVEMBER 6,
+2012
+
+
+Location Info
+= = = = = = = = = = 
+520 SKYLINE
+
+
+Precinct IDs
+= = = = = = = = = = 
+520.1; 520.2; 520.3
+
+
+Start Date and Time
+= = = = = = = = = = 
+Date: Nov 6, 2012
+Time: 9:54:58 PM
+
+
+Counters Info
+= = = = = = = = = = 
+Public Counters = 355
+Protective = 3818
+
+
+
+
+Votes Details
+= = = = = = = = = = 
+
+
+
+PRESIDENT
+AND
+VICE
+PRESIDENT
+- - - - - - - - -
+Ballots Cast:  355
+                  Count
+                  - - -
+M Romney/P Ry(- R)   66
+B Obama/J Bid(- D)  286
+V Goode/J Cly(- C)    0
+G Johnson/J G(- L)    2
+J Stein/C Hon(- G)    0
+WriteIn               0
+UnderVotes            1
+OverVotes             0
+
+
+
+
+MEMBER
+UNITED
+STATES SENATE
+
+- - - - - - - - -
+Ballots Cast:  355
+                  Count
+                  - - -
+G Allen(- R)         63
+T Kaine(- D)        289
+WriteIn               0
+UnderVotes            3
+OverVotes             0
+
+
+
+MEMBER
+HOUSE OF
+REPRESENTATIVES
+8TH
+DISTRICT
+- - - - - - - - -
+Ballots Cast:  355
+                  Count
+                  - - -
+J Murray(- R)        62
+J Moran, Jr.(- D)   274
+J Murphy(-IG)         6
+J Howell(- I)         6
+WriteIn               1
+UnderVotes            6
+OverVotes             0
+
+
+PROPOSED
+
+CONSTITUTIONAL
+AMENDMENTS
+QUESTION 1
+- - - - - - -
+Ballots Cast:  355
+                  Count
+                  - - -
+Yes                 134
+No                  199
+UnderVotes           22
+OverVotes             0
+
+
+
+PROPOSED
+CONSTITUTIONAL
+AMENDMENTS
+QUESTION 2
+- - - - - - -
+Ballots Cast:  355
+                  Count
+                  - - -
+Yes                 285
+No                   41
+UnderVotes           29
+OverVotes             0
+
+
+PARKS AND PARK
+FACILITIES
+BONDS
+- - - - - - -
+Ballots Cast:  355
+                  Count
+                  - - -
+Yes                 279
+No                   50
+UnderVotes           26
+OverVotes             0
+
+
+
+PUBLIC SAFETY BONDS
+- - - - - - -
+Ballots Cast:  355
+                  Count
+                  - - -
+Yes                 278
+No                   50
+UnderVotes           27
+OverVotes             0
+
+
+
+PUBLIC LIBRARY BONDS
+- - - - - - -
+Ballots Cast:  355
+                  Count
+                  - - -
+Yes                 274
+No                   57
+UnderVotes           24
+OverVotes             0
+
+
+STORM
+DRAINAGE
+IMPROVEMENTS
+BONDS
+- - - - - - -
+Ballots Cast:  355
+                  Count
+                  - - -
+Yes                 286
+No                   42
+UnderVotes           27
+OverVotes             0
+
+
+WriteIn Details
+= = = = = = = = = = 
+
+
+
+PRESIDENT
+AND
+VICE
+PRESIDENT
+- - - - - - - - -
+No Write-ins
+
+
+
+
+MEMBER
+UNITED
+STATES SENATE
+
+- - - - - - - - -
+No Write-ins
+
+
+
+MEMBER
+HOUSE OF
+REPRESENTATIVES
+8TH
+DISTRICT
+- - - - - - - - -
+- - Ballot - -
+  COLIN YOUNG
+
+
+Audit Log Details
+= = = = = = = = = = 
+1: 11/6/2012 5:26:12 AM
+Poll is open.
+
+
+2: 11/6/2012 9:54:58 PM
+Generate Poll Close
+Report
+
+
+
+
+Certified by:
+
+
+- - - - - - - - - - 
+
+
+- - - - - - - - - - 
+
+
+- - - - - - - - - - 
+
+
+- - - - - - - - - - 
+
+
+- - - - - - - - - - 
+
+
+- - - - - - - - - - 
+
+
+End Date and Time
+= = = = = = = = = = 
+Date: Nov 6, 2012
+Time: 9:54:59 PM
+
+
+* * * * * * * * * * * *
+     End of Report     
+* * * * * * * * * * * *
+
+
+
+
+
+
+
+

@@ -1,0 +1,114 @@
+*************** WINvoteChangeLog.txt ****************
+*                                                   *
+* To find out the product version of the system     *
+* you are running, right mouse click the exe file   *
+* to open the properties dialog window. Click the   *
+* Version tab, then you'll find the Product Version *
+* information there.                                *
+*                                                   *
+*****************************************************
+version 1.5.6031 - Dec 31st, 2003
+		 - Modem Transfer Messages
+
+version 1.5.6028 - 
+		 - Fixed Admin bug
+		 - Show WINvote Status on LOG ON Page
+.fixed issue%523 - Log Date/Time change event
+.fixed issue#551 - Discrepancy between the public counter and the number of voters
+	in the Database.
+.fixed issue#552 - Discrepancy between the Public and Protective counters.
+.fixed issue#554 - USB Changes drive letter.
+.fixed issue#562 - Candidates order on report doesn't match WINprep order.
+.fixed issue#564 - Location BallotImage menu:Message change.
+.fixed issue#565 - Election Menu in Admin.
+.fixed issue#566 - Location Ballot Image menu spelling changes.
+.fixed issue#567 - Ballot Image menu spelling changes.
+.fixed issue#568 - Date and Time Settings in Admin.
+.fixed issue#569 - Location Ballot Image menu.
+.fixed issue#570 - AuditLog menu.
+.fixed issue#572 - Archived Election menu.
+.fixed issue#573 - Archived Election menu.
+.fixed issue#575 - Insert Location Card after WINvote closes.
+.fixed issue#587 - Add unit# info to location report.
+.fixed Issue#597 - modem status bar.
+.fixed issue#598 - Modem Export Complete
+.fixed issue#617 - Normal Ballot Summary font and instruction.
+.fixed issue#618 - Page n of  m on ballot pages.
+.fixed issue#619 - Writein screen instruction.
+.fixed issue#620 - Add Instruction on the first ballot page.
+
+version 1.5.6025 - Dec 9,2003
+.changed modem transfer part to support commservice.
+version 1.5.6024 - 
+.Added a flag in the SVSDB.mdb, system checks this flag to decide whether show exportdata
+button or not in the last screen.
+.Added Date/Time modification functionality in the WInvote admin.
+.Added archive election data capability.
+.show provisional image ID in the reprots.
+.repeat report beginning infon at the end of report if it's primary election.
+.fixed issue# 478
+.changed unit search.
+.changed location tally.
+.in the Admin, unit search only look for units which status is suspend,closed or pre election.
+.fixed a bug with admin reset.
+.disable provisional selection for fairfax.
+.fixed issu #306 - ballot layout out of alignment 
+
+version 1.5.6022 - july 28,2003
+.fixed a bug related with location audit log.
+.fixed a bug related with location ballot image.
+.fixed a bug related with WINmanager.
+.fixed a bug related with  L&A part.
+.
+
+
+version 1.5.6021 - July 7,2003
+.remove DSN, directly connect to the database
+.Add triple redundancy
+
+version 1.5.6020 - June 30,2003
+.fixed issue# 430 - System not ready message
+.fixed issue# 429 - WINmanager public counter
+
+version 1.5.6019 - June 6,2003
+.fixed issue# 391, add re-modem transfer the location results from location 
+  USB or master unit
+.fixed issue# 356.
+.complete L&A test. only need to turn on master unit L&A flag to do the whole location L&A test.
+.fixed WINmanager bug.
+
+version 1.5.6018 - May 23,2003
+.fixed issue# 386
+.fixed issue# 387
+.fixed issue# 373
+.fixed issue# 351 in the its
+.fixed issue# 294
+.fixed issue# 382
+.fixed issue# 370
+.improved issue# 374 
+
+
+version 1.5.6004 - september 20,2002
+.fixed a bug in the spanish part.
+.fixed a bug related with WINmanager public counter.
+.put delay after exporting data to make sure printing reports finish. 
+This time interval is changable, go to Touchvote.mdb SystemConfiguration table, find ExitInterval
+flag, modify its number. it's seconds.
+.added one stop voting to WINmanager.    
+
+version 1.5.6003 - september 18, 2002
+.Added election info on the first logon screen.
+.Reprint poll location reports in the Admin Location Ballot Image screen.
+.Flash the Next button on the Summary page to remind the voter go to next page
+.Enlarge vote button, and put info inside it.
+.Make the ballot style and party selection harder to change. Before change it,
+the user has to deselect the selected one, then select a new one.
+.If one WINvote unit failed to respond to the WINmanager or master WINvote unit 
+after certain number of tries, it will be ignored in the poll opening. 
+
+Version 1.5.6002 – September 9, 2002
+.Added more space between candidate name and party name when ballot doesn’t show parenthesis.
+
+
+Version 1.5.6001 - September 4, 2002
+. Added delay before network is not ready on the admin mode

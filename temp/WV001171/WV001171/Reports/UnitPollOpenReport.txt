@@ -1,0 +1,171 @@
+* * * * * * * * * * * *
+   Unit Open Report
+* * * * * * * * * * * *
+
+
+Unit Info
+= = = = = = = = = = 
+Advanced Voting
+Solutions
+Unit#: WV001171
+SW version: 1.5.4
+
+
+Election Info
+= = = = = = = = = = 
+COMMONWEALTH OF
+VIRGINIA, OFFICIAL
+BALLOT
+COUNTY OF FAIRFAX
+DEMOCRATIC PARTY
+PRIMARY ELECTION
+TUESDAY, JUNE 10, 2014
+
+
+Location Info
+= = = = = = = = = = 
+520 SKYLINE
+
+
+Precinct IDs
+= = = = = = = = = = 
+520
+
+
+Start Date and Time
+= = = = = = = = = = 
+Date: May 15, 2014
+Time: 2:06:13 PM
+
+
+Counters Info
+= = = = = = = = = = 
+All Counters=0
+Public Counters = 0
+Protective = 2741
+
+
+
+
+Votes Details
+= = = = = = = = = = 
+
+
+
+
+MEMBER
+HOUSE OF
+REPRESENTATIVES
+8TH
+DISTRICT
+
+- - - - - - - - -
+Ballots Cast:  0
+                  Count
+                  - - -
+D Beyer, Jr.          0
+L Chatman             0
+M Levine              0
+C Herring             0
+P Hope                0
+A Ebbin               0
+B Shuttleworth        0
+S Korpe               0
+W Euille              0
+D Hyra                0
+UnderVotes            0
+OverVotes             0
+
+
+Audit Log Details
+= = = = = = = = = = 
+1: 5/15/2014 2:01:33 PM
+WINvote Unit is turned
+on.
+
+
+2: 5/15/2014 2:01:34 PM
+check memory
+
+
+3: 5/15/2014 2:01:35 PM
+check hard drive
+
+
+4: 5/15/2014 2:01:36 PM
+check Removable Media
+
+
+5: 5/15/2014 2:01:37 PM
+check network
+
+
+6: 5/15/2014 2:01:38 PM
+check smartcard device
+
+
+7: 5/15/2014 2:01:39 PM
+check printer
+
+
+8: 5/15/2014 2:01:40 PM
+ORC Passed
+
+
+9: 5/15/2014 2:03:54 PM
+New election has been
+imported through
+network.
+
+
+10: 5/15/2014 2:06:09
+PM
+Reset all counters
+
+
+11: 5/15/2014 2:06:13
+PM
+Generate Poll Open
+Report
+
+
+
+
+Certified by:
+
+
+- - - - - - - - - - 
+
+
+- - - - - - - - - - 
+
+
+- - - - - - - - - - 
+
+
+- - - - - - - - - - 
+
+
+- - - - - - - - - - 
+
+
+- - - - - - - - - - 
+
+
+End Date and Time
+= = = = = = = = = = 
+Date: May 15, 2014
+Time: 2:06:14 PM
+
+
+* * * * * * * * * * * *
+     End of Report     
+* * * * * * * * * * * *
+
+
+
+
+
+
+
+

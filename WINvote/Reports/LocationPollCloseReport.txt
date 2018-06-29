@@ -1,0 +1,119 @@
+* * * * * * * * * * * *
+      Location 
+    Close Report
+* * * * * * * * * * * *
+
+
+Unit Info
+= = = = = = = = = = 
+Advanced Voting
+Solutions
+Unit#: WV002815
+Version: 1.5.4
+
+
+Election Info
+= = = = = = = = = = 
+COMMONWEALTH OF
+VIRGINIA, OFFICIAL
+BALLOT
+COUNTY OF FAIRFAX
+DEMOCRATIC PARTY
+PRIMARY ELECTION
+TUESDAY, JUNE 10, 2014
+
+
+Location Info
+= = = = = = = = = = 
+520 SKYLINE
+
+
+Precinct IDs
+= = = = = = = = = = 
+520
+
+
+WINvote Units
+= = = = = = = = = = 
+WV002815
+
+
+Start Date and Time
+= = = = = = = = = = 
+Date: Jun 10, 2014
+Time: 7:33:37 PM
+
+
+Counters Info
+= = = = = = = = = = 
+Total Ballots = 2
+
+
+Votes Details
+= = = = = = = = = = 
+
+
+
+
+MEMBER
+HOUSE OF
+REPRESENTATIVES
+8TH
+DISTRICT
+
+- - - - - - - - -
+Ballots Cast:  2
+                  Count
+                  - - -
+D Beyer, Jr.          0
+L Chatman             0
+M Levine              0
+C Herring             0
+P Hope                1
+A Ebbin               0
+B Shuttleworth        1
+S Korpe               0
+W Euille              0
+D Hyra                0
+UnderVotes            0
+OverVotes             0
+
+
+Certified by:
+
+
+- - - - - - - - - - 
+
+
+- - - - - - - - - - 
+
+
+- - - - - - - - - - 
+
+
+- - - - - - - - - - 
+
+
+- - - - - - - - - - 
+
+
+- - - - - - - - - - 
+
+
+End Date and Time
+= = = = = = = = = = 
+Date: Jun 10, 2014
+Time: 7:33:38 PM
+
+
+* * * * * * * * * * * *
+     End of Report     
+* * * * * * * * * * * *
+
+
+
+
+
+
+
+
